@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/shubhamispandey/posts_cms_backend
    ```
 
 2. Install dependencies:
